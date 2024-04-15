@@ -1,0 +1,40 @@
+.box {
+    /* background-color: aquamarine; */
+    background-color: #ececec;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 16px;
+}
+
+.blinkText {
+    animation: blink 0.5s infinite;
+    /* background-color: rgb(208, 227, 238); */
+}
+
+@keyframes blink {
+    from {
+        color: red;
+    }
+
+    to {
+        /* color: #ececec; */
+        color: transparent;
+    }
+}
+
+.bg-success-light {
+    background-color: rgb(214, 230, 240);
+}
+
+.text-align {
+    text-align: justify;
+}
+
+.hoverEffect:hover {
+    text-decoration: underline;
+    /* color: rgb(204, 132, 24); */
+}
+
+.cursor {
+    cursor: pointer;
+}
