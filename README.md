@@ -1,4 +1,4 @@
-<h1>YCollege_Template</h1>
+<h1>College_Template</h1>
 
 Link - https://pdea-admission.netlify.app/
 <hr>
